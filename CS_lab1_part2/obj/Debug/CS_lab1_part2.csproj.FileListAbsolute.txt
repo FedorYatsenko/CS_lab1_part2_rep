@@ -1,0 +1,10 @@
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\obj\Debug\CS_lab1_part2.csprojResolveAssemblyReference.cache
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\obj\Debug\CS_lab1_part2.Form1.resources
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\obj\Debug\CS_lab1_part2.Properties.Resources.resources
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\obj\Debug\CS_lab1_part2.csproj.GenerateResource.Cache
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\obj\Debug\CS_lab1_part2.csproj.CoreCompileInputs.cache
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\bin\Debug\CS_lab1_part2.exe.config
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\bin\Debug\CS_lab1_part2.exe
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\bin\Debug\CS_lab1_part2.pdb
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\obj\Debug\CS_lab1_part2.exe
+E:\GoogleDisk\Study\Temp\Комп'ютерні системи\lab1\CS_lab1_part2\CS_lab1_part2\obj\Debug\CS_lab1_part2.pdb
